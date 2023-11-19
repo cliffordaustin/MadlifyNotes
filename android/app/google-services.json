@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1040326756206",
+    "project_id": "cool-madlifynote",
+    "storage_bucket": "cool-madlifynote.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040326756206:android:f64bfc4f608d1fe4cc637f",
+        "android_client_info": {
+          "package_name": "com.cliffordfirstproject23.madlifynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ8Rs-x8Qjh9clvchyLLx7NJzUnY3VMks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
